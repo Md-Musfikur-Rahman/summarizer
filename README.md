@@ -6,7 +6,7 @@ Summarize is an open-source article summarizer powered by OpenAI's GPT-4 technol
 
 #### About
 
-Summarize is developed and maintained by [Your Name or Organization]. It was created with the goal of simplifying reading and enhancing information consumption. We hope Summarize proves to be a valuable tool for users seeking efficient access to information in the digital age.
+Summarize is developed and maintained by [Md Musfikur Rahman](https://musfikur.com). It was created with the goal of simplifying reading and enhancing information consumption. We hope Summarize proves to be a valuable tool for users seeking efficient access to information in the digital age.
 
 ---
 
