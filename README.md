@@ -25,8 +25,8 @@ Summarize is developed and maintained by [Md Musfikur Rahman](https://musfikur.c
 - **Frontend**:
   - React: A JavaScript library for building user interfaces.
   - Tailwind CSS: A utility-first CSS framework for rapid UI development.
-- **Backend**: (If applicable, specify any backend technologies used)
-- **AI Model**: OpenAI GPT-4 (Rapidapi API library)
+- **Backend**: Rapidapi API library
+- **AI Model**: OpenAI GPT-4 
 - **Deployment**: Vercel
 
 ---
